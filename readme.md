@@ -1,0 +1,1 @@
+a flutter project designrd for an easy and quic uploading of recipes
